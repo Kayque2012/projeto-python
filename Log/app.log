@@ -1,0 +1,100 @@
+29/04/2025 19:13:46 - INFO - package: mysql.connector.plugins
+29/04/2025 19:13:46 - INFO - plugin_name: caching_sha2_password
+29/04/2025 19:13:46 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+29/04/2025 19:41:25 - INFO - package: mysql.connector.plugins
+29/04/2025 19:41:25 - INFO - plugin_name: caching_sha2_password
+29/04/2025 19:41:25 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+29/04/2025 19:43:28 - INFO - package: mysql.connector.plugins
+29/04/2025 19:43:28 - INFO - plugin_name: caching_sha2_password
+29/04/2025 19:43:28 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+29/04/2025 19:43:45 - INFO - Usuário: ui@gmail.com | Ação: Cadastro de Usuário | Status: Sucesso
+30/04/2025 15:37:33 - INFO - package: mysql.connector.plugins
+30/04/2025 15:37:33 - INFO - plugin_name: caching_sha2_password
+30/04/2025 15:37:33 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+30/04/2025 15:37:33 - INFO - Usuário: Sistema | Ação: Listagem | Status: Executada
+30/04/2025 15:53:03 - INFO - package: mysql.connector.plugins
+30/04/2025 15:53:03 - INFO - plugin_name: caching_sha2_password
+30/04/2025 15:53:03 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+30/04/2025 15:55:22 - INFO - package: mysql.connector.plugins
+30/04/2025 15:55:22 - INFO - plugin_name: caching_sha2_password
+30/04/2025 15:55:22 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+30/04/2025 16:01:01 - INFO - package: mysql.connector.plugins
+30/04/2025 16:01:01 - INFO - plugin_name: caching_sha2_password
+30/04/2025 16:01:01 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+30/04/2025 16:06:36 - INFO - package: mysql.connector.plugins
+30/04/2025 16:06:36 - INFO - plugin_name: caching_sha2_password
+30/04/2025 16:06:36 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+30/04/2025 16:17:04 - INFO - package: mysql.connector.plugins
+30/04/2025 16:17:04 - INFO - plugin_name: caching_sha2_password
+30/04/2025 16:17:04 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+30/04/2025 16:20:51 - INFO - package: mysql.connector.plugins
+30/04/2025 16:20:51 - INFO - plugin_name: caching_sha2_password
+30/04/2025 16:20:51 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+30/04/2025 16:21:51 - INFO - package: mysql.connector.plugins
+30/04/2025 16:21:51 - INFO - plugin_name: caching_sha2_password
+30/04/2025 16:21:51 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+30/04/2025 16:22:33 - INFO - package: mysql.connector.plugins
+30/04/2025 16:22:33 - INFO - plugin_name: caching_sha2_password
+30/04/2025 16:22:33 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+30/04/2025 16:22:59 - INFO - package: mysql.connector.plugins
+30/04/2025 16:22:59 - INFO - plugin_name: caching_sha2_password
+30/04/2025 16:22:59 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+30/04/2025 16:23:09 - INFO - Usuário: rio@gmail.com | Ação: Cadastro de Usuário | Status: Sucesso
+30/04/2025 16:25:06 - INFO - package: mysql.connector.plugins
+30/04/2025 16:25:06 - INFO - plugin_name: caching_sha2_password
+30/04/2025 16:25:06 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+30/04/2025 16:25:21 - INFO - Usuário: rioo@gmail.com | Ação: Cadastro de Usuário | Status: Sucesso
+30/04/2025 16:28:45 - INFO - package: mysql.connector.plugins
+30/04/2025 16:28:45 - INFO - plugin_name: caching_sha2_password
+30/04/2025 16:28:45 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+30/04/2025 16:28:59 - INFO - Usuário: elisa@gmail.com | Ação: Cadastro de Usuário | Status: Sucesso
+30/04/2025 16:29:44 - INFO - package: mysql.connector.plugins
+30/04/2025 16:29:44 - INFO - plugin_name: caching_sha2_password
+30/04/2025 16:29:44 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+30/04/2025 16:29:53 - INFO - Usuário: sanches@gmail.com | Ação: Cadastro de Usuário | Status: Sucesso
+30/04/2025 17:08:35 - INFO - package: mysql.connector.plugins
+30/04/2025 17:08:35 - INFO - plugin_name: caching_sha2_password
+30/04/2025 17:08:35 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+30/04/2025 17:08:42 - INFO - Usuário: Sistema | Ação: Validação de nome | Status: Falha - Nome inválido
+30/04/2025 17:08:48 - INFO - Usuário: rio@gmail.com | Ação: Validação de email | Status: Falha - Email já existe
+30/04/2025 17:09:01 - INFO - Usuário: riio@gmail.com | Ação: Validação de tipo | Status: Falha - Tipo inválido
+30/04/2025 17:09:13 - INFO - Usuário: riio@gmail.com | Ação: Validação de chave organizador | Status: Falha - Chave inválida
+30/04/2025 17:24:15 - INFO - package: mysql.connector.plugins
+30/04/2025 17:24:15 - INFO - plugin_name: caching_sha2_password
+30/04/2025 17:24:15 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+30/04/2025 17:24:20 - INFO - Usuário: kayai@gmail.com | Ação: Exclusão usuário ID 20 | Status: Sucesso
+30/04/2025 17:24:29 - INFO - Usuário: rogerio@gmail.com | Ação: Exclusão usuário ID 19 | Status: Sucesso
+30/04/2025 17:24:31 - INFO - Usuário: helo@gmail.com | Ação: Exclusão usuário ID 18 | Status: Sucesso
+30/04/2025 17:24:34 - INFO - Usuário: Sistema | Ação: Exclusão usuário ID 17 | Status: Falha - Usuário não encontrado
+30/04/2025 17:24:36 - INFO - Usuário: Sistema | Ação: Exclusão usuário ID 16 | Status: Falha - Usuário não encontrado
+30/04/2025 17:24:39 - INFO - Usuário: kaiaia@gmail.com | Ação: Exclusão usuário ID 21 | Status: Sucesso
+30/04/2025 17:24:44 - INFO - Usuário: rogeria@gmail.com | Ação: Exclusão usuário ID 22 | Status: Sucesso
+30/04/2025 17:24:47 - INFO - Usuário: yas@gmail.com | Ação: Exclusão usuário ID 23 | Status: Sucesso
+30/04/2025 17:24:51 - INFO - Usuário: lua@gmail.com | Ação: Exclusão usuário ID 24 | Status: Sucesso
+30/04/2025 17:24:54 - INFO - Usuário: isaias@gmail.com | Ação: Exclusão usuário ID 25 | Status: Sucesso
+30/04/2025 17:25:30 - INFO - package: mysql.connector.plugins
+30/04/2025 17:25:30 - INFO - plugin_name: caching_sha2_password
+30/04/2025 17:25:30 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+30/04/2025 17:25:30 - INFO - Usuário: Sistema | Ação: Listagem de usuários | Status: Sucesso
+30/04/2025 17:29:24 - INFO - package: mysql.connector.plugins
+30/04/2025 17:29:24 - INFO - plugin_name: caching_sha2_password
+30/04/2025 17:29:24 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+30/04/2025 17:29:25 - INFO - Usuário: luigi@gmail.com | Ação: Exclusão usuário ID 26 | Status: Falha - 1451 (23000): Cannot delete or update a parent row: a foreign key constraint fails (`teste2`.`inscricao`, CONSTRAINT `inscricao_ibfk_2` FOREIGN KEY (`id_usuario`) REFERENCES `usuario` (`id_usuario`))
+30/04/2025 17:29:35 - INFO - Usuário: Sistema | Ação: Listagem de usuários | Status: Sucesso
+30/04/2025 17:32:09 - INFO - package: mysql.connector.plugins
+30/04/2025 17:32:09 - INFO - plugin_name: caching_sha2_password
+30/04/2025 17:32:09 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+30/04/2025 17:32:17 - INFO - Usuário: Isadora@gmail.com | Ação: Validação de senha | Status: Falha - Senha fraca
+30/04/2025 17:32:26 - INFO - Usuário: Isadora@gmail.com | Ação: Cadastro participante | Status: Sucesso
+30/04/2025 17:32:26 - INFO - Usuário: Isadora@gmail.com | Ação: Cadastro de Usuário | Status: Sucesso
+30/04/2025 17:32:48 - INFO - Usuário: Isadora@gmail.com | Ação: Visualização de Eventos | Status: Sucesso
+30/04/2025 17:33:47 - INFO - Usuário: Wesley@gmail.com | Ação: Validação de chave organizador | Status: Falha - Chave inválida
+30/04/2025 17:33:53 - INFO - Usuário: Wesley@gmail.com | Ação: Validação de chave organizador | Status: Sucesso
+30/04/2025 17:33:53 - INFO - Usuário: Wesley@gmail.com | Ação: Cadastro de Usuário | Status: Sucesso
+30/04/2025 17:34:28 - INFO - Usuário: Sistema | Ação: Relatório de Usuários | Status: Gerado com sucesso
+30/04/2025 17:34:40 - INFO - Usuário: Wesley@gmail.com | Ação: Visualização de Participantes | Status: Falha: Nenhum evento criado
+30/04/2025 17:34:55 - INFO - Usuário: Wesley@gmail.com | Ação: Criação de Evento | Status: Falha: Data inválida
+30/04/2025 17:35:07 - INFO - Usuário: Wesley@gmail.com | Ação: Criação de Evento | Status: Sucesso
+30/04/2025 17:35:13 - INFO - Usuário: Wesley@gmail.com | Ação: Visualização de Participantes | Status: Sucesso: Evento 15 sem participantes
+30/04/2025 17:35:18 - INFO - Usuário: Wesley@gmail.com | Ação: Exclusão de Evento | Status: Sucesso
+30/04/2025 17:35:25 - INFO - Usuário: Wesley@gmail.com | Ação: Exclusão de Evento | Status: Falha: Nenhum evento encontrado
