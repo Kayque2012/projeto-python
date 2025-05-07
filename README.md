@@ -47,3 +47,5 @@ Ainda em desenvolvimento...
 # Vídeo expositivo do Projeto em execução-Versão 3
   https://github.com/user-attachments/assets/ed88ee7c-b37e-4ca8-a4c4-a38287462c4e
 
+# Vídeo expositivo do Projeto em execução-Versão 4
+  https://github.com/user-attachments/assets/c8fa8153-3f98-4aeb-b104-547df1f1d282
