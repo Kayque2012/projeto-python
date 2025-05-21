@@ -49,3 +49,10 @@ Ainda em desenvolvimento...
 
 # Vídeo expositivo do Projeto em execução-Versão 4
   https://github.com/user-attachments/assets/c8fa8153-3f98-4aeb-b104-547df1f1d282
+
+<div align="center">
+  <h1>💼 Contribuidores e Membros</h1>
+  <a href="https://github.com/Kayque2012/projeto-python/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Kayque2012/projeto-python"/>
+</a>
+</div>
