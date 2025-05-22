@@ -8,7 +8,7 @@ from Servicos.logger_utils import log_acesso
 
 
 def validar_nome(nome):
-    return nome.isalpha()
+    all(c.isalpha() or c.isspace() for c in nome)
 
 
 def validar_email(email):
@@ -104,7 +104,7 @@ def cadastrar():
         log_acesso(email, "Cadastro participante", "Sucesso")
 
     try:
-        # Operação crítica que precisa de tratamento de erro
+        # tratamento de erro
         with con.cursor() as cursor:
             cursor.execute("""
                 INSERT INTO USUARIO (nome, email, senha, tipo_usuario, credencial)
@@ -168,7 +168,7 @@ def atualizar_porId():
     novo_tipo = input("\nDigite o novo tipo do usuário(Organizador ou Participante): ").strip().capitalize()
 
     try:
-        # Operação crítica que precisa de tratamento de erro
+        # tratamento de erro
         sql = "UPDATE USUARIO SET nome = %s, email = %s, senha = %s, tipo_usuario = %s WHERE id_usuario = %s"
         valores = (novo_nome, novo_email, nova_senha, novo_tipo, id_usuario)
         cursor.execute(sql, valores)
@@ -222,7 +222,7 @@ def listar():
     con = conectar_banco.conectar()
     cursor = con.cursor()
 
-    sql = "SELECT * FROM USUARIO"
+    sql = "SELECT nome, id_usuario FROM USUARIO"
     cursor.execute(sql)
     USUARIO = cursor.fetchall()
 
