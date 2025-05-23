@@ -8,7 +8,7 @@ from Servicos.logger_utils import log_acesso
 
 
 def validar_nome(nome):
-    all(c.isalpha() or c.isspace() for c in nome)
+    return all(c.isalpha() or c.isspace() for c in nome)
 
 
 def validar_email(email):
